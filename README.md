@@ -1,13 +1,9 @@
-# ASSIGNMENT 3 TEAM 70
+# ASSIGNMENT 3
 ## The Information of the Creator:
 
 ***ASSIGNMENT 3***                                                           
   **Author:** Lukas Waschuk   
-  **OneCard:** 1660570           
   **CCID:** lwaschuk   
-  **Instructor:** Ildar Akhmetov                 
-  **Lecture Section:** B1   
-  **Lab Section:** H04    
   **Date:** 04-15-2021                           
 
 ### The Purpose of Your Program:
